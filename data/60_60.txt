@@ -1,0 +1,65 @@
+60 60
+ooooo#ooooooo#oooooooooooo#oooooo#oooooooooooo#ooooooo#ooooo
+oooooooo#ooooooooooooooooo#oooooo#ooooooooooooooooo#oooooooo
+ooooooo#oo#o#oooooooooooooo#oooo#oooooooooooooo#o#oo#ooooooo
+oooooooooo#oooooooo##oooooo#oooo#oooooo##oooooooo#oooooooooo
+oooooooooooooooooooooooooooo#oo#oooooooooooooooooooooooooooo
+#oooo#ooooooooooooo#oooooooooooooooooooo#ooooooooooooo#oooo#
+ooooooooooooo#ooooo#oooooooooooooooooooo#ooooo#ooooooooooooo
+oo#ooooooooooooooo##oooo#o#oooooo#o#oooo##ooooooooooooooo#oo
+o#oooooooooooooooo#oooo##oooooooooo##oooo#oooooooooooooooo#o
+ooooooooooooooooo##oo#oooooooooooooooo#oo##ooooooooooooooooo
+oo##ooooooooooooo#oooo#oooooooooooooo#oooo#ooooooooooooo##oo
+oooooooooooooooo#oooooo#oooooooooooo#oooooo#oooooooooooooooo
+oo#oooooooooooo##oooooooooooooooooooooooooo##oooooooooooo#oo
+#ooooo#oooooooooooooooooooooooooooooooooooooooooooooo#ooooo#
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooo#oooooooooooooooooooooooooooooooooo#oooooooooooo
+ooooooooooo##oooooooooooooooooooooooooooooooooo##ooooooooooo
+ooooooooo##oooooooooooooooooooooooooooooooooooooo##ooooooooo
+ooooooo###oooooooooooooooooooooooooooooooooooooooo###ooooooo
+ooo#o###ooooooooooo#ooo#oooooooooooo#ooo#ooooooooooo###o#ooo
+ooo#oooooooooooooooooooooooo#oo#oooooooooooooooooooooooo#ooo
+ooooooooo#oooooooooooooooooooooooooooooooooooooooo#ooooooooo
+oooooooooo#oooooooooooooooooooooooooooooooooooooo#oooooooooo
+oooooooo#oo#ooooooo#ooooooo#oooo#ooooooo#ooooooo#oo#oooooooo
+ooooooo##ooooooooooooooooo#oooooo#ooooooooooooooooo##ooooooo
+oooooooooooooooooooooooooo#oooooo#oooooooooooooooooooooooooo
+##ooooo#oooooooooooooooo##oooooooo##oooooooooooooooo#ooooo##
+oo##ooooooooooooooooooo#oooooooooooo#ooooooooooooooooooo##oo
+oooo#ooooooooooooooo#oooooooo##oooooooo#ooooooooooooooo#oooo
+Oooooooooooooooooooooooooooo#oo#oooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooo#oo#oooooooooooooooooooooooooooO
+oooo#ooooooooooooooo#oooooooo##oooooooo#ooooooooooooooo#oooo
+oo##ooooooooooooooooooo#oooooooooooo#ooooooooooooooooooo##oo
+##ooooo#oooooooooooooooo##oooooooo##oooooooooooooooo#ooooo##
+oooooooooooooooooooooooooo#oooooo#oooooooooooooooooooooooooo
+ooooooo##ooooooooooooooooo#oooooo#ooooooooooooooooo##ooooooo
+oooooooo#oo#ooooooo#ooooooo#oooo#ooooooo#ooooooo#oo#oooooooo
+oooooooooo#oooooooooooooooooooooooooooooooooooooo#oooooooooo
+ooooooooo#oooooooooooooooooooooooooooooooooooooooo#ooooooooo
+ooo#oooooooooooooooooooooooo#oo#oooooooooooooooooooooooo#ooo
+ooo#o###ooooooooooo#ooo#oooooooooooo#ooo#ooooooooooo###o#ooo
+ooooooo###oooooooooooooooooooooooooooooooooooooooo###ooooooo
+ooooooooo##oooooooooooooooooooooooooooooooooooooo##ooooooooo
+ooooooooooo##oooooooooooooooooooooooooooooooooo##ooooooooooo
+oooooooooooo#oooooooooooooooooooooooooooooooooo#oooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+#ooooo#oooooooooooooooooooooooooooooooooooooooooooooo#ooooo#
+oo#oooooooooooo##oooooooooooooooooooooooooo##oooooooooooo#oo
+oooooooooooooooo#oooooo#oooooooooooo#oooooo#oooooooooooooooo
+oo##ooooooooooooo#oooo#oooooooooooooo#oooo#ooooooooooooo##oo
+ooooooooooooooooo##oo#oooooooooooooooo#oo##ooooooooooooooooo
+o#oooooooooooooooo#oooo##oooooooooo##oooo#oooooooooooooooo#o
+oo#ooooooooooooooo##oooo#o#oooooo#o#oooo##ooooooooooooooo#oo
+ooooooooooooo#ooooo#oooooooooooooooooooo#ooooo#ooooooooooooo
+#oooo#ooooooooooooo#oooooooooooooooooooo#ooooooooooooo#oooo#
+oooooooooooooooooooooooooooo#oo#oooooooooooooooooooooooooooo
+oooooooooo#oooooooo##oooooo#oooo#oooooo##oooooooo#oooooooooo
+ooooooo#oo#o#oooooooooooooo#oooo#oooooooooooooo#o#oo#ooooooo
+oooooooo#ooooooooooooooooo#oooooo#ooooooooooooooooo#oooooooo
+ooooo#ooooooo#oooooooooooo#oooooo#oooooooooooo#ooooooo#ooooo
+0 0
+59 59
+0 59
+59 0
